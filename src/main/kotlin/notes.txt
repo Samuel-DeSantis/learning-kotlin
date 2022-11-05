@@ -1,0 +1,18 @@
+Focused on clarify, conciseness, and code safety
+
+Robust code
+
+nullable and non-nullable datatypes to help catch errors at compile
+
+strongly typed
+
+lambdas, coroutines, properties
+
+2017 Kotlin offically supported language for building android apps
+
+designed to eliminate boilerplate code
+    "just enough boilerplate code" to ensure readability
+
+Can use Java and Kotlin side-by-side
+
+Array size is fixed, can't add or remove elements
